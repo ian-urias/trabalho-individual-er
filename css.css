@@ -1,0 +1,30 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-size: 25px;
+}
+header{
+    background: black;
+    padding: 5px;
+    text-align: center;
+    height: 150px;
+    margin-top: 10px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+body{
+    background-color: black;
+}
+.conteudo{
+    background-color: white;
+    margin-bottom: 20px;
+    padding: 10px;
+}
+header h1{
+    color: white;
+}
+ main {
+    margin-left: 200px;
+    margin-right: 200px;
+    text-align: center;
+}
