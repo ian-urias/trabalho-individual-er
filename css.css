@@ -25,7 +25,10 @@ body{
     margin-bottom: 20px;
     padding: 10px;
 }
-
+header{
+    /* mudando a cor da fonte */
+    color:white
+}
 }
  main {
      /* fazendo uma box pro mru main */
