@@ -1,9 +1,12 @@
-*{
+
+ {   
+    /* zerando a margem e aumentando a fonte da pagina inteira  */
     margin: 0px;
     padding: 0px;
     font-size: 25px;
 }
 header{
+    /* colocando margem no background,deixando o texto no centro e definindo seu tamanho  */
     background: black;
     padding: 5px;
     text-align: center;
@@ -13,17 +16,19 @@ header{
     margin-right: 200px;
 }
 body{
+    /* mudando o fundo do meu body */
     background-color: black;
 }
 .conteudo{
+    /* fazendo uma box pro meus conteudos */
     background-color: white;
     margin-bottom: 20px;
     padding: 10px;
 }
-header h1{
-    color: white;
+
 }
  main {
+     /* fazendo uma box pro mru main */
     margin-left: 200px;
     margin-right: 200px;
     text-align: center;
