@@ -1,5 +1,5 @@
 
- {   
+ *{   
     /* zerando a margem e aumentando a fonte da pagina inteira  */
     margin: 0px;
     padding: 0px;
@@ -28,7 +28,6 @@ body{
 header{
     /* mudando a cor da fonte */
     color:white
-}
 }
  main {
      /* fazendo uma box pro mru main */
